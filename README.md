@@ -1,5 +1,8 @@
-Task 2 - Unemployment Analysis using Python
-This project analyzes the unemployment scenario before and after the lockdown using Python. It includes data analysis, visualizations, and insights derived from the provided dataset.
+Task 2 - Unemployment Analysis using Python:
+
+
+This project analyzes the unemployment scenario before and after the lockdown using Python. It includes data analysis, visualizations, and insights derived from 
+the provided dataset.
 
 Features
 Analyze the unemployment rates, employment, and labor participation for different states and regions.
